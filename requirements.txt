@@ -3,4 +3,5 @@ git
 docker
 asible
 kubernetes
+aws
 terraform
