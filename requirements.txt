@@ -4,3 +4,4 @@ docker
 asible
 kubernetes
 aws
+terraform
